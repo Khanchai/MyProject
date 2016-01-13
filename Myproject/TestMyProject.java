@@ -65,7 +65,7 @@ public class TestMyProject extends JFrame {
 		
 		// SWOP
 //		String mobileNo = "0933304059";
-		String mobileNo = "0935850241";
+		//String mobileNo = "0935850241";
 		String encryptKey = "HelloWorld";
 		String lang = "EN";
 //		String host = "10.252.163.171:8082";
