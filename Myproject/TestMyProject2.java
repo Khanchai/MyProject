@@ -82,7 +82,7 @@ public class TestMyProject extends JFrame {
 //			sendPOST(targetURL, mobileNo, encryptKey, lang, auditLogId ,parameterBody);
 			
 			// LOGIN FLOW
-			Integer rtnCodeLogin = getLogin(URL_LOGIN, mobileNo, encryptKey, lang, auditLogId, host);
+			//Integer rtnCodeLogin = getLogin(URL_LOGIN, mobileNo, encryptKey, lang, auditLogId, host);
 //			if (200 == rtnCodeLogin){
 //				// mypackageinfo
 //				System.out.println("=====|> MY_PACKAGE_INFO");
