@@ -1,0 +1,19 @@
+
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/Myproject/TestMyProject2.java b/Myproject/TestMyProject2.java
+index b1ff0b8..91fe659 100644
+--- a/Myproject/TestMyProject2.java
++++ b/Myproject/TestMyProject2.java
+@@ -82,7 +82,7 @@ public class TestMyProject extends JFrame {
+ //			sendPOST(targetURL, mobileNo, encryptKey, lang, auditLogId ,parameterBody);
+ 			
+ 			// LOGIN FLOW
+-			Integer rtnCodeLogin = getLogin(URL_LOGIN, mobileNo, encryptKey, lang, auditLogId, host);
++			//Integer rtnCodeLogin = getLogin(URL_LOGIN, mobileNo, encryptKey, lang, auditLogId, host);
+ //			if (200 == rtnCodeLogin){
+ //				// mypackageinfo
+ //				System.out.println("=====|> MY_PACKAGE_INFO");
