@@ -4,16 +4,33 @@
 # Please enter the commit message for your changes. Everything below
 # this paragraph is ignored, and an empty message aborts the commit.
 # Just close the window to accept your message.
-diff --git a/Myproject/TestMyProject2.java b/Myproject/TestMyProject2.java
-index b1ff0b8..91fe659 100644
---- a/Myproject/TestMyProject2.java
-+++ b/Myproject/TestMyProject2.java
-@@ -82,7 +82,7 @@ public class TestMyProject extends JFrame {
- //			sendPOST(targetURL, mobileNo, encryptKey, lang, auditLogId ,parameterBody);
- 			
- 			// LOGIN FLOW
--			Integer rtnCodeLogin = getLogin(URL_LOGIN, mobileNo, encryptKey, lang, auditLogId, host);
-+			//Integer rtnCodeLogin = getLogin(URL_LOGIN, mobileNo, encryptKey, lang, auditLogId, host);
- //			if (200 == rtnCodeLogin){
- //				// mypackageinfo
- //				System.out.println("=====|> MY_PACKAGE_INFO");
+diff --git a/Myproject/test.txt b/Myproject/test.txt
+index 844abf1..83e1838 100644
+--- a/Myproject/test.txt
++++ b/Myproject/test.txt
+@@ -1,3 +1,8 @@
+ hello world 
+ xxx
+ yyy
++ccc
++ vv
++ bb
++ nnnnn
++ 
+\ No newline at end of file
+diff --git a/Myproject/text2.txt b/Myproject/text2.txt
+new file mode 100644
+index 0000000..d022c63
+--- /dev/null
++++ b/Myproject/text2.txt
+@@ -0,0 +1,10 @@
++sssss
++dddd
++fffff
++ggg
++
++hj
++
++j
++k
++k
